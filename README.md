@@ -129,7 +129,7 @@ This repository serves as the central place for documenting the project, showcas
 
 The complete design, including the individual screens and user flows, can be explored through the Figma project below.
 
-**Figma Project:** [View KING INNOVATION BANK] https://www.figma.com/design/kh29w9S0ZQxrQBKVQQ02jz/KING-INNOVATION-BANK?node-id=48-134&t=sMulyWTNPQzMLCgS-1)
+**Figma Project:** [View KING INNOVATION BANK](https://www.figma.com/design/kh29w9S0ZQxrQBKVQQ02jz/KING-INNOVATION-BANK?node-id=48-134&t=sMulyWTNPQzMLCgS-1)
 
 ---
 
