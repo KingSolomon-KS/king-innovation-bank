@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  <strong>Redefining the Future of Banking</strong>
-</p>
-
-<p align="center">
   A Modern Digital Banking Experience
 </p>
 
