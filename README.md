@@ -1,3 +1,14 @@
+<div align="center">
+
+<img src="assets/king-innovation-bank-icon.png"
+     width="220"
+     alt="KING INNOVATION BANK">
+
+# KING INNOVATION BANK
+
+### Redefining the Future of Banking
+
+</div>
 # KING INNOVATION BANK
 ### Redefining the Future of Banking
 
