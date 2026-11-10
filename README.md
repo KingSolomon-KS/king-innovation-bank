@@ -16,9 +16,6 @@
 </p>
 
 ---
-# KING INNOVATION BANK
-### Redefining the Future of Banking
-
 KING INNOVATION BANK is a digital banking design project built around a simple idea: banking should be easier to access, easier to understand, and more convenient to use.
 
 The project explores how a modern banking platform can bring essential financial services together through a clean interface, intuitive navigation, and carefully connected user journeys.
