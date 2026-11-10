@@ -16,10 +16,6 @@
 </p>
 
 ---
-
-### Redefining the Future of Banking
-
-</div>
 # KING INNOVATION BANK
 ### Redefining the Future of Banking
 
