@@ -1,10 +1,21 @@
-<div align="center">
 
-<img src="assets/king-innovation-bank-icon.png"
-     width="220"
-     alt="KING INNOVATION BANK">
+<p align="center">
+  <img
+    src="assets/king-innovation-bank-header.png"
+    alt="KING INNOVATION BANK"
+    width="750"
+  />
+</p>
 
-# KING INNOVATION BANK
+<p align="center">
+  <strong>Redefining the Future of Banking</strong>
+</p>
+
+<p align="center">
+  A Modern Digital Banking Experience
+</p>
+
+---
 
 ### Redefining the Future of Banking
 
