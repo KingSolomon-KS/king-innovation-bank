@@ -1,10 +1,5 @@
-<div align="center">
-  <img
-    src="assets/king-innovation-bank-header.png"
-    alt="KING INNOVATION BANK"
-    width="750"
-  />
-</div>
+
+<div align="center"><img src="assets/king-innovation-bank-header.png" alt="KING INNOVATION BANK" width="600"><br><strong>Redefining the Future of Banking</strong><br>A Modern Digital Banking Experience</div>
 
 KING INNOVATION BANK is a digital banking design project built around a simple idea: banking should be easier to access, easier to understand, and more convenient to use.
 
